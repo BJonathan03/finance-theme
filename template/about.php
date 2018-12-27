@@ -2,6 +2,9 @@
 
 /*
 * Template Name: About us
+ *
+ * Cette page peut-être appelée dans la back office mais correspond à page-about-us.php
+ * Elle n'est donc pas utilisée mais montre que l'utilisation d'un Template Name dans le back office fonctionne également
 */
 
 ?>
