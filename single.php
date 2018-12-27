@@ -1,7 +1,8 @@
 <?php get_header(); ?>
 
 <?php
-GkAriane();
+Fil_Ariane();
+
 ?>
 
 

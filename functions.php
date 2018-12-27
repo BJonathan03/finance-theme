@@ -225,7 +225,9 @@ function pdw_theme_setup(){
  * Fil d'Ariane
  */
 
-function GkAriane() {
+
+
+function Fil_Ariane() {
 
     if (is_page() && !is_front_page() || is_single() || is_category()) {
 
@@ -249,6 +251,7 @@ function GkAriane() {
                     }
                 }
             }
+
             if (is_category())
             {
                 echo '<li>'.ucfirst(strtolower(single_term_title('', false))).'<li>';
