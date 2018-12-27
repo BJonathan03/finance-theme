@@ -1,0 +1,13 @@
+<form id="contact-form" class="uk-form" name="form" method="POST" action="http://localhost/cms/projet1/wordpress-4.9.8/wordpress/contact/"> ERREUR
+
+<form name="form" class="uk-form" method="post"> OK
+
+Et j'aimerais que tu m'expliques dans un document texte pourquoi ceci est une erreur.
+
+Le chemin qui est écrit dans l'action est un chemin absolu. Vu qu'il correspond à l'emplacement de mon fichier en local, cela ne
+sera pas le même chez vous et donc une erreure va survenir.
+
+Deux possibilité s'offre à nous :
+
+ * Le chemin relatif qui permet d'accéder à une page en se promenant dans l'arborescence des fichier
+ * Ne pas mettre d'action car wordpress réagit par défaut renvoie à la page du formulaire

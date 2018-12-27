@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Finance Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-20 10:34+0000\n"
+"PO-Revision-Date: 2018-12-20 10:58+0000\n"
+"Last-Translator: Jon <bustinjonathan03@hotmail.com>\n"
+"Language-Team: Dutch (Belgium)\n"
+"Language: nl_BE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.9"
+
+#. Name of the template
+msgid "About us"
+msgstr "Over ons"
+
+#: functions.php:97 functions.php:107
+msgid "Ajout d'un bloc texte ou autre sur le site"
+msgstr ""
+"\n"
+"het toevoegen van een tekstblok of iets anders op de site"
+
+#: functions.php:117
+msgid "Ajout d'une map sur la page"
+msgstr "Een kaart toevoegen"
+
+#. Author of the theme
+msgid "Anonyme"
+msgstr ""
+"\n"
+"anoniem"
+
+# ct
+#. Name of the template
+msgid "Contact"
+msgstr "Contact"
+
+#. Name of the theme
+msgid "Finance Theme"
+msgstr ""
+"\n"
+"Financieel thema"
+
+#. Name of the template
+msgid "News"
+msgstr "nieuwigheid"
+
+#. Name of the template
+msgid "Page d'accueil"
+msgstr ""
+"\n"
+"Beginpagina"
+
+#. Description of the theme
+msgid "Theme de base réalisé by Jon"
+msgstr "Basis thema geregisseerd door Jon"
+
+#: functions.php:105
+msgid "widget_cv"
+msgstr "widget_cv"
+
+#: functions.php:95
+msgid "widget_footer"
+msgstr "widget_footer"
+
+#: functions.php:115
+msgid "widget_maps"
+msgstr "widget_kaart"
