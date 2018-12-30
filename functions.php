@@ -225,8 +225,6 @@ function pdw_theme_setup(){
  * Fil d'Ariane
  */
 
-
-
 function Fil_Ariane() {
 
     if (is_page() && !is_front_page() || is_single() || is_category()) {
@@ -256,13 +254,13 @@ function Fil_Ariane() {
             {
                 echo '<li>'.ucfirst(strtolower(single_term_title('', false))).'<li>';
             }
-
+/*
             if (is_single())
             {
                 $category = get_the_category();
                 echo '<li><a href="'.get_category_link($category[0]->cat_ID).'">'.ucfirst(strtolower($category[0]->cat_name)).'</a></li>';
             }
-
+*/
             if (is_page() || is_single())
             {
               //  the_category(' ');

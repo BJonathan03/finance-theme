@@ -1,8 +1,5 @@
-<?php get_header() ?>
-
-<?php
+<?php get_header();
 Fil_Ariane();
-
 ?>
 
 

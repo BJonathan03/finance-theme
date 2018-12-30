@@ -3,9 +3,7 @@
 
 <?php
     get_header();
-?>
 
-<?php
     include_once('template/slider.php');
 ?>
 
